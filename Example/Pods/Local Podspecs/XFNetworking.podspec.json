@@ -1,0 +1,22 @@
+{
+  "name": "XFNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of XFNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/maladoufupi/XFNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "maladoufupi": "921869949@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/maladoufupi/XFNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "XFNetworking/Classes/**/*"
+}

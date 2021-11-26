@@ -1,0 +1,6 @@
+framework module XFNetworking {
+  umbrella header "XFNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
